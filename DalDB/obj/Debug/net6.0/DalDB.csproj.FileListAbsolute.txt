@@ -1,0 +1,28 @@
+C:\Users\Office_bank hadoar\source\repos\DalDB\bin\Debug\net6.0\DalDB.deps.json
+C:\Users\Office_bank hadoar\source\repos\DalDB\bin\Debug\net6.0\DalDB.runtimeconfig.json
+C:\Users\Office_bank hadoar\source\repos\DalDB\bin\Debug\net6.0\DalDB.dll
+C:\Users\Office_bank hadoar\source\repos\DalDB\bin\Debug\net6.0\DalDB.pdb
+C:\Users\Office_bank hadoar\source\repos\DalDB\obj\Debug\net6.0\DalDB.csproj.AssemblyReference.cache
+C:\Users\Office_bank hadoar\source\repos\DalDB\obj\Debug\net6.0\DalDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Office_bank hadoar\source\repos\DalDB\obj\Debug\net6.0\DalDB.AssemblyInfoInputs.cache
+C:\Users\Office_bank hadoar\source\repos\DalDB\obj\Debug\net6.0\DalDB.AssemblyInfo.cs
+C:\Users\Office_bank hadoar\source\repos\DalDB\obj\Debug\net6.0\DalDB.csproj.CoreCompileInputs.cache
+C:\Users\Office_bank hadoar\source\repos\DalDB\obj\Debug\net6.0\DalDB.dll
+C:\Users\Office_bank hadoar\source\repos\DalDB\obj\Debug\net6.0\refint\DalDB.dll
+C:\Users\Office_bank hadoar\source\repos\DalDB\obj\Debug\net6.0\DalDB.pdb
+C:\Users\Office_bank hadoar\source\repos\DalDB\obj\Debug\net6.0\DalDB.genruntimeconfig.cache
+C:\Users\Office_bank hadoar\source\repos\DalDB\obj\Debug\net6.0\ref\DalDB.dll
+C:\Users\esterpi\DalDB\bin\Debug\net6.0\DalDB.deps.json
+C:\Users\esterpi\DalDB\bin\Debug\net6.0\DalDB.runtimeconfig.json
+C:\Users\esterpi\DalDB\bin\Debug\net6.0\DalDB.dll
+C:\Users\esterpi\DalDB\bin\Debug\net6.0\DalDB.pdb
+C:\Users\esterpi\DalDB\obj\Debug\net6.0\DalDB.csproj.AssemblyReference.cache
+C:\Users\esterpi\DalDB\obj\Debug\net6.0\DalDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esterpi\DalDB\obj\Debug\net6.0\DalDB.AssemblyInfoInputs.cache
+C:\Users\esterpi\DalDB\obj\Debug\net6.0\DalDB.AssemblyInfo.cs
+C:\Users\esterpi\DalDB\obj\Debug\net6.0\DalDB.csproj.CoreCompileInputs.cache
+C:\Users\esterpi\DalDB\obj\Debug\net6.0\DalDB.dll
+C:\Users\esterpi\DalDB\obj\Debug\net6.0\refint\DalDB.dll
+C:\Users\esterpi\DalDB\obj\Debug\net6.0\DalDB.pdb
+C:\Users\esterpi\DalDB\obj\Debug\net6.0\DalDB.genruntimeconfig.cache
+C:\Users\esterpi\DalDB\obj\Debug\net6.0\ref\DalDB.dll
